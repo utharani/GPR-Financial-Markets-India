@@ -50,7 +50,7 @@ The analysis so far includes:
 /excel
 /python
 /report
-/figures
+/media
 
-- All analyses and charts are saved in the `excel` and `figures` folders.  
+- All analyses and charts are saved in the `excel` and `media` folders.  
 - Final scripts will be available in Python notebooks under `/python`.
