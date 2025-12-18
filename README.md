@@ -113,12 +113,6 @@ The analysis so far includes:
 - Next: formal econometric estimation (Python)
 
 ---
-
 ## 📎 Notes
 - All analyses and charts are saved in the `excel` and `figures` folders.  
 - Final scripts will be available in Python notebooks under `/python`.
-
-
-
-- **Microsoft Excel**: Descriptive analysis, correlation, stationarity checks  
-- **Python (planned)**: Formal ADF tests, VAR estimation, causality, IRF
