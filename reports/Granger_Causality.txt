@@ -1,0 +1,73 @@
+===== GRANGER CAUSALITY TESTS (WALD) =====
+
+GPR -> Gold
+Granger causality Wald-test. H_0: GPR does not Granger-cause dlog_Gold. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+        0.2521          3.841   0.616  1
+----------------------------------------
+
+GPR -> Nifty
+Granger causality Wald-test. H_0: GPR does not Granger-cause d_Nifty. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+        0.1890          3.841   0.664  1
+----------------------------------------
+
+GPR -> USDINR
+Granger causality Wald-test. H_0: GPR does not Granger-cause d_USDINR. Conclusion: reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+         3.871          3.841   0.049  1
+----------------------------------------
+
+Gold -> GPR
+Granger causality Wald-test. H_0: dlog_Gold does not Granger-cause GPR. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+      0.002304          3.841   0.962  1
+----------------------------------------
+
+Nifty -> GPR
+Granger causality Wald-test. H_0: d_Nifty does not Granger-cause GPR. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+        0.6642          3.841   0.415  1
+----------------------------------------
+
+USDINR -> GPR
+Granger causality Wald-test. H_0: d_USDINR does not Granger-cause GPR. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+     0.0001089          3.841   0.992  1
+----------------------------------------
+
+Gold -> Nifty
+Granger causality Wald-test. H_0: dlog_Gold does not Granger-cause d_Nifty. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+        0.1035          3.841   0.748  1
+----------------------------------------
+
+Gold -> USDINR
+Granger causality Wald-test. H_0: dlog_Gold does not Granger-cause d_USDINR. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+         3.822          3.841   0.051  1
+----------------------------------------
+
+Nifty -> USDINR
+Granger causality Wald-test. H_0: d_Nifty does not Granger-cause d_USDINR. Conclusion: fail to reject H_0 at 5% significance level.
+========================================
+Test statistic Critical value p-value df
+----------------------------------------
+         1.165          3.841   0.280  1
+----------------------------------------

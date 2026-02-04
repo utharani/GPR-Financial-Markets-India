@@ -1,0 +1,3 @@
+===== IMPULSE RESPONSE FUNCTION (IRF) RESULTS =====
+
+IRF plots generated and saved as IRF_VAR1.png
